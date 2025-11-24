@@ -115,3 +115,11 @@ I build, optimize, and maintain **production-grade systems** using:
    └───────┬─────────┘
            ↓
    ✔ Monitoring • Alerts • Rollbacks  
+
+      🚀 Deploying Infrastructure...
+   ██████████████████████ 100%
+   ✔ Terraform Applied  
+   ✔ Services Running  
+   ✔ Pods Healthy  
+   ✔ Metrics Active  
+
