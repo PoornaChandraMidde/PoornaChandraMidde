@@ -18,15 +18,14 @@
 ---
 
 ## 🌟 **About Me**
-I design **secure, scalable, production-grade cloud architectures** backed by automated DevOps pipelines, proactive monitoring systems, and optimized cost structures.  
+I am a passionate **Cloud & DevOps Engineer** specializing in automated infrastructures, scalable architectures, CI/CD pipelines, and cloud-native deployments.  
 
-I specialize in:
-- ⚙️ **Cloud Infrastructure Design** (AWS, GCP, Oracle Cloud)  
-- 🚀 **CI/CD Pipelines** (GitHub Actions, Jenkins, Azure DevOps)  
-- 🐳 **Containers & Orchestration** (Docker, Kubernetes, EKS)  
-- 🔐 **Security & IAM Hardening**  
-- 📊 **Observability & Monitoring** (Grafana, CloudWatch, ELK)  
-- 🐍 **Automation** using Python & Shell Script  
+I build, optimize, and maintain **production-grade systems** using:
+- ☁ AWS, GCP, Oracle Cloud  
+- 🐳 Docker, Kubernetes, EKS  
+- 🚀 GitHub Actions, Jenkins, Azure DevOps  
+- 📊 Grafana, CloudWatch, ELK  
+- 🐍 Python & Shell Automation  
 
 ---
 
@@ -38,62 +37,81 @@ I specialize in:
 
 ---
 
-# 🚀 **Project Highlights (Technical + Recruiter Friendly)**
+# 🚀 **Project Highlights**
 
 ### 🔹 **Terraform AWS Infrastructure**
+- Multi-tier VPC  
+- NAT, Subnets, ALB, ASG  
+- RDS, IAM, S3 lifecycle  
+
+### 🔹 **Azure DevOps CI/CD Pipeline**
+- Build → Test → Dockerize → Deploy  
+- ACR push + VM/AKS deployment  
+
+### 🔹 **Kubernetes EKS Deployment**
+- Horizontal Pod Autoscaling  
+- Ingress Controller  
+- Grafana monitoring  
+
+---
+
+# 🏆 **Certifications**
+- 🟦 GCP Certified  
+- 🟨 AWS Cloud Administrator  
+- 🔷 Oracle Cloud Certified  
+
+---
+
+# 🏅 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PoornaChandraMidde&theme=onestar&no-frame=true&margin-w=5" />
+</p>
+
+---
+
+# 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PoornaChandraMidde&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoornaChandraMidde&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoornaChandraMidde&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🐍 **Contribution Snake Animation**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📊 **Activity Graph**
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=PoornaChandraMidde&theme=react-dark&hide_border=true">
+</p>
+
+---
+
+# ⚙️ **DevOps Pipeline (Visualization)**
 ```md
-🌐 Multi-tier VPC Architecture  
-⚙️ NAT, Subnets, ALB, ASG  
-📦 RDS, IAM, S3 Lifecycle Policies
-
-### 🔹 Azure DevOps CI/CD Pipeline*8
-🔄 Build → Test → Dockerize → Deploy  
-🐳 Automatic Image Builds  
-📤 Deployments to AKS / VM Scale Sets  
-
-###🏆 Certifications**
-🟦 GCP Certified
-
-🟨 AWS Cloud Administrator
-
-###🔷 Oracle Cloud Certified
-
-🏅 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PoornaChandraMidde&theme=onestar&no-frame=true&margin-w=5" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PoornaChandraMidde&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoornaChandraMidde&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoornaChandraMidde&theme=tokyonight&hide_border=true" height="180"/> </p>
-
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PoornaChandraMidde&theme=react-dark&hide_border=true"> </p>
-
    ┌─────────────────┐
    │ Developer Push  │
    └───────┬─────────┘
            ↓
    ┌─────────────────┐
-   │ CI Pipeline     │  🧪 Tests  
+   │ CI Pipeline     │ 🧪 Tests  
    └───────┬─────────┘
            ↓
    ┌─────────────────┐
-   │ Docker Build    │  🐳  
+   │ Docker Build    │ 🐳  
    └───────┬─────────┘
            ↓
    ┌─────────────────┐
-   │ Deploy to Cloud │  ☁️ AWS/GCP  
+   │ Deploy to Cloud │ ☁️ AWS / GCP  
    └───────┬─────────┘
            ↓
    ✔ Monitoring • Alerts • Rollbacks  
-
-      🚀 Deploying to Cloud...
-   ██████████████████████ 100%
-   ✔ Infrastructure Provisioned  
-   ✔ Services Online  
-   ✔ Health Checks Passed  
-   ✔ Observability Enabled  
-
-<p align="center"> <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a> <a href="YOUR_PORTFOLIO"><img src="https://img.icons8.com/color/48/domain.png" width="50"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a> </p>
-<p align="center"> <img src="https://img.shields.io/badge/Visitors-Tracking-blue?style=for-the-badge" /> </p>
-
-
-
