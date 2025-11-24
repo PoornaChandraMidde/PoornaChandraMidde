@@ -29,7 +29,7 @@ I build, optimize, and maintain **production-grade systems** using:
 
 ---
 
-# 🔥 **Tech Stack **
+## 🔥 **Tech Stack **
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,oracle,terraform,kubernetes,docker,ansible,jenkins,githubactions,linux,git,python,bash,java,mysql,postgres,mongodb&perline=9" />
@@ -37,7 +37,7 @@ I build, optimize, and maintain **production-grade systems** using:
 
 ---
 
-# 🚀 **Project Highlights**
+
 
 ### 🔹 **Terraform AWS Infrastructure**
 - Multi-tier VPC  
@@ -55,7 +55,7 @@ I build, optimize, and maintain **production-grade systems** using:
 
 ---
 
-# 🏆 **Certifications**
+## 🏆 **Certifications**
 - 🟦 GCP Certified  
 - 🟨 AWS Cloud Administrator  
 - 🔷 Oracle Cloud Certified  
@@ -69,7 +69,7 @@ I build, optimize, and maintain **production-grade systems** using:
 
 ---
 
-# 📈 **GitHub Stats**
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PoornaChandraMidde&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -82,7 +82,7 @@ I build, optimize, and maintain **production-grade systems** using:
 
 ---
 
-# 🐍 **Contribution Snake Animation**
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
