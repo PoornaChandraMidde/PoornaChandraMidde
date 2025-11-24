@@ -115,4 +115,14 @@ My work focuses on **availability, cost-efficiency, resilience, and performance 
 
 ---
 
-## ⚡ **Fun DevOps ASCII Animation**
+  Deploying...
+  ████████████████████ 100%
+  ✔ Infrastructure Ready  
+  ✔ Containers Deployed  
+  ✔ Pipeline Successful  
+  ✔ Monitoring Active  
+
+---
+
+🔥 **Always learning. Always building. Always improving.**  
+
