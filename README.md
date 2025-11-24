@@ -12,7 +12,7 @@
 
 # 🌩️ **Cloud & DevOps Engineer**
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=4uapE2QmRgK4&format=png&color=000000" width="250"/>
+  <img src="https://img.icons8.com/?size=100&id=4uapE2QmRgK4&format=png&color=000000" width="150"/>
 </p>
 
 ---
