@@ -1,97 +1,118 @@
-# 👋 Hi, I'm **Poorna Chandra Rao Midde**  
-### 🌩️ Cloud & DevOps Engineer | GCP Certified | AWS Cloud Admin | Oracle Cloud Certified  
-### 🚀 Tech Enthusiast | Optimizing Cloud with DevOps Excellence
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+Poorna+Chandra+Rao+Midde;Cloud+%26+DevOps+Engineer;GCP+Certified+|+AWS+Cloud+Admin+|+Oracle+Cloud+Certified;Optimizing+Cloud+with+DevOps+Excellence" alt="Typing Animation" />
+</h1>
+
+<!-- Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 
 ---
 
-## 🌟 About Me
-I am a passionate **Cloud & DevOps Engineer** with hands-on experience in building scalable cloud architectures, automating deployments, and ensuring high availability across AWS, GCP, and Oracle Cloud.
-
-I specialize in:
-- Cloud Infrastructure Design  
-- CI/CD Pipelines  
-- Server Automation  
-- Containers & Orchestration  
-- Production Monitoring & Troubleshooting  
+## 🌩️ **Cloud & DevOps Engineer**  
+🔧 Specializing in **Cloud Infrastructure | CI/CD | Containers | Automation | Monitoring**  
+📍 Passionate about reliability, scalability, and building production-grade systems.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🌟 **About Me**
+I am a passionate and detail-driven **Cloud & DevOps Engineer** with hands-on experience in:
+
+- ⚙️ **Cloud Infrastructure Design** (AWS, GCP, Oracle Cloud)  
+- 🚀 **CI/CD Pipelines** (GitHub Actions, Azure DevOps, Jenkins)  
+- 🐳 **Containers & Orchestration** (Docker, Kubernetes, EKS)  
+- 🔐 **Security & IAM Hardening**  
+- 📊 **Observability & Monitoring** (CloudWatch, Grafana, ELK)  
+- ✨ **Automation** using Python & Shell Script  
+
+My work focuses on **availability, cost-efficiency, resilience, and performance tuning**.
+
+---
+
+## 🛠️ **Tech Stack & Tools**
 
 ### ☁️ Cloud Platforms
-AWS • GCP • Oracle Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,oracle" />
+</p>
 
 ### 🚀 DevOps & Automation
-Docker • Kubernetes • Terraform • Ansible  
-Jenkins • GitHub Actions • Linux • Shell Script  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux" />
+</p>
 
 ### 🗄️ Databases
-MySQL • MongoDB • Oracle DB • Amazon RDS
-
-### 📊 Monitoring & Logging
-CloudWatch • ELK Stack • Prometheus • Grafana
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
 ### 💻 Programming
-Python • Bash • Core Java
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,java" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 **Featured Projects (Most Relevant in DevOps & Cloud)**
 
-### 🚀 Terraform AWS Infrastructure  
-Production-ready AWS architecture using Infrastructure as Code.
+### 🚀 **Terraform – Production-Ready AWS Infrastructure**
+- Automated VPC, Subnets, NAT, ALB, AutoScaling, RDS  
+- Fully modular architecture  
 
-### 🔄 CI/CD Pipeline  
-Automated build → test → dockerize → deploy pipeline with GitHub Actions.
+### 🔄 **CI/CD Pipeline Automation**
+- Build → Test → Dockerize → Deploy  
+- GitHub Actions + Azure DevOps + Jenkins Integration  
 
-### 📦 Dockerized Microservices  
-Multi-container app using Docker Compose + NGINX reverse proxy.
+### 🐳 **Dockerized Microservices Platform**
+- Load-balanced multi-service system  
+- NGINX reverse proxy + Observability  
 
-### ☸️ Kubernetes Deployment  
-Application deployment on EKS with Autoscaling & Ingress.
+### ☸️ **Kubernetes (EKS) Deployment**
+- Autoscaling  
+- Ingress Controller  
+- Zero-downtime rollout  
 
-### 📊 S3 Logs → Athena → Visualization  
-End-to-end workflow to process and analyze S3 logs.
+### 📊 **S3 → Athena → QuickSight**
+- Data pipeline for analytics  
+- Log processing automation  
 
 ---
 
-## 🏆 Certifications  
+## 🏆 **Certifications**
 - 🟦 GCP Certified  
 - 🟨 AWS Cloud Administrator  
 - 🔷 Oracle Cloud Certified  
 
 ---
 
-## 📈 GitHub Stats
+## 🏅 **Developer Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PoornaChandraMidde&theme=algolia&no-frame=true&margin-w=5" />
+</p>
+
+---
+
+## 📈 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PoornaChandraMidde&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoornaChandraMidde&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
----
-
-## 📬 Connect with Me
-- 💼 LinkedIn: *Add your link here*  
-- 🌐 Portfolio: *Add your website link here*  
-- 📧 Email: your-email@example.com  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoornaChandraMidde&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-🔥 *Always learning. Always building. Always improving.*  
+## 🔗 **Connect with Me**
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  &nbsp;
+  <a href="YOUR_PORTFOLIO_URL_HERE"><img src="https://img.icons8.com/color/48/domain.png" width="48"/></a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+</p>
 
+---
 
-<!--
-**PoornaChandraMidde/PoornaChandraMidde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ **Fun DevOps ASCII Animation**
