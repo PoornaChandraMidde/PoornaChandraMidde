@@ -45,12 +45,4 @@ I specialize in:
 🌐 Multi-tier VPC Architecture  
 ⚙️ NAT, Subnets, ALB, ASG  
 📦 RDS, IAM, S3 Lifecycle Policies  
-
-🔄 Build → Test → Dockerize → Deploy  
-🐳 Automatic Image Builds  
-📤 Deployments to AKS / VM Scale Sets  
-☸️ HPA Autoscaling  
-🚦 Ingress Controller  
-🔁 Zero-downtime Rolling Updates  
-📈 Cluster Observability with Grafana  
-
+🔹 Azure DevOps CI/CD Pipeline
