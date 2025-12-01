@@ -29,7 +29,7 @@ I build, optimize, and maintain **production-grade systems** using:
 
 ---
 
-## 🔥 **Tech Stack **
+## 🔥 **Tech Stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,oracle,terraform,kubernetes,docker,ansible,jenkins,githubactions,linux,git,python,bash,java,mysql,postgres,mongodb&perline=9" />
