@@ -62,30 +62,6 @@ I build, optimize, and maintain **production-grade systems** using:
 
 ---
 
-# 🏅 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PoornaChandraMidde&theme=onestar&no-frame=true&margin-w=5" />
-</p>
-
----
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoornaChandraMidde&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoornaChandraMidde&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoornaChandraMidde&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
